@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\SqrRtCnvgt_Prob57\bin\Debug\SqrRtCnvgt_Prob57.exe
+D:\Temp\ProjectEuler\SqrRtCnvgt_Prob57\bin\Debug\SqrRtCnvgt_Prob57.pdb
+D:\Temp\ProjectEuler\SqrRtCnvgt_Prob57\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\SqrRtCnvgt_Prob57\obj\x86\Debug\SqrRtCnvgt_Prob57.exe
+D:\Temp\ProjectEuler\SqrRtCnvgt_Prob57\obj\x86\Debug\SqrRtCnvgt_Prob57.pdb

@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\SeriesSum_prob48\bin\Debug\SeriesSum_prob48.exe
+D:\Temp\ProjectEuler\SeriesSum_prob48\bin\Debug\SeriesSum_prob48.pdb
+D:\Temp\ProjectEuler\SeriesSum_prob48\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\SeriesSum_prob48\obj\x86\Debug\SeriesSum_prob48.exe
+D:\Temp\ProjectEuler\SeriesSum_prob48\obj\x86\Debug\SeriesSum_prob48.pdb

@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\10001stPrime\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\10001stPrime\bin\Debug\10001stPrime.exe
+D:\Temp\ProjectEuler\10001stPrime\bin\Debug\10001stPrime.pdb
+D:\Temp\ProjectEuler\10001stPrime\obj\x86\Debug\10001stPrime.exe
+D:\Temp\ProjectEuler\10001stPrime\obj\x86\Debug\10001stPrime.pdb

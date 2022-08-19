@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\LatticePath_Prob15\bin\Debug\LatticePath_Prob15.exe
+D:\Temp\ProjectEuler\LatticePath_Prob15\bin\Debug\LatticePath_Prob15.pdb
+D:\Temp\ProjectEuler\LatticePath_Prob15\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\LatticePath_Prob15\obj\x86\Debug\LatticePath_Prob15.exe
+D:\Temp\ProjectEuler\LatticePath_Prob15\obj\x86\Debug\LatticePath_Prob15.pdb

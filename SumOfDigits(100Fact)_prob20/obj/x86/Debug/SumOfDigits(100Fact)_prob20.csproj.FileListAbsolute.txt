@@ -1,0 +1,7 @@
+E:\TimePass Projects\ProjectEuler\SumOfDigits(100Fact)_prob20\bin\Debug\SumOfDigits(100Fact)_prob20.exe
+E:\TimePass Projects\ProjectEuler\SumOfDigits(100Fact)_prob20\bin\Debug\SumOfDigits(100Fact)_prob20.pdb
+E:\TimePass Projects\ProjectEuler\SumOfDigits(100Fact)_prob20\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TimePass Projects\ProjectEuler\SumOfDigits(100Fact)_prob20\obj\x86\Debug\SumOfDigits(100Fact)_prob20.exe
+E:\TimePass Projects\ProjectEuler\SumOfDigits(100Fact)_prob20\obj\x86\Debug\SumOfDigits(100Fact)_prob20.pdb
+D:\Temp\ProjectEuler\SumOfDigits(100Fact)_prob20\obj\x86\Debug\SumOfDigits(100Fact)_prob20.exe
+D:\Temp\ProjectEuler\SumOfDigits(100Fact)_prob20\obj\x86\Debug\SumOfDigits(100Fact)_prob20.pdb

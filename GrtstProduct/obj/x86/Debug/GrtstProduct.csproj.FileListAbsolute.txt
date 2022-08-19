@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\GrtstProduct\bin\Debug\GrtstProduct.exe
+D:\Temp\ProjectEuler\GrtstProduct\bin\Debug\GrtstProduct.pdb
+D:\Temp\ProjectEuler\GrtstProduct\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\GrtstProduct\obj\x86\Debug\GrtstProduct.exe
+D:\Temp\ProjectEuler\GrtstProduct\obj\x86\Debug\GrtstProduct.pdb

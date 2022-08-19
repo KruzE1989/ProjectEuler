@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\TriangleWords_prob42\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\TriangleWords_prob42\bin\Debug\TriangleWords_prob42.exe
+D:\Temp\ProjectEuler\TriangleWords_prob42\bin\Debug\TriangleWords_prob42.pdb
+D:\Temp\ProjectEuler\TriangleWords_prob42\obj\x86\Debug\TriangleWords_prob42.exe
+D:\Temp\ProjectEuler\TriangleWords_prob42\obj\x86\Debug\TriangleWords_prob42.pdb

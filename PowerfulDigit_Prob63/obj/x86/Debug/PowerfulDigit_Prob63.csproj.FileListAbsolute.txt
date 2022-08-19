@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\PowerfulDigit_Prob63\bin\Debug\PowerfulDigit_Prob63.exe
+D:\Temp\ProjectEuler\PowerfulDigit_Prob63\bin\Debug\PowerfulDigit_Prob63.pdb
+D:\Temp\ProjectEuler\PowerfulDigit_Prob63\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\PowerfulDigit_Prob63\obj\x86\Debug\PowerfulDigit_Prob63.exe
+D:\Temp\ProjectEuler\PowerfulDigit_Prob63\obj\x86\Debug\PowerfulDigit_Prob63.pdb

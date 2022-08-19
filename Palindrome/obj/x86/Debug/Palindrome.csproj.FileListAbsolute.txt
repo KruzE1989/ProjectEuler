@@ -1,0 +1,7 @@
+D:\visual studio 2010\Projects\ProjectEuler\Palindrome\bin\Debug\Palindrome.exe
+D:\visual studio 2010\Projects\ProjectEuler\Palindrome\bin\Debug\Palindrome.pdb
+D:\visual studio 2010\Projects\ProjectEuler\Palindrome\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\visual studio 2010\Projects\ProjectEuler\Palindrome\obj\x86\Debug\Palindrome.exe
+D:\visual studio 2010\Projects\ProjectEuler\Palindrome\obj\x86\Debug\Palindrome.pdb
+D:\Temp\ProjectEuler\Palindrome\obj\x86\Debug\Palindrome.exe
+D:\Temp\ProjectEuler\Palindrome\obj\x86\Debug\Palindrome.pdb

@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\DiffSqrSumFirst100\bin\Debug\DiffSqrSumFirst100.exe
+D:\Temp\ProjectEuler\DiffSqrSumFirst100\bin\Debug\DiffSqrSumFirst100.pdb
+D:\Temp\ProjectEuler\DiffSqrSumFirst100\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\DiffSqrSumFirst100\obj\x86\Debug\DiffSqrSumFirst100.exe
+D:\Temp\ProjectEuler\DiffSqrSumFirst100\obj\x86\Debug\DiffSqrSumFirst100.pdb

@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\PermutedMultiples_Prob52\bin\Debug\PermutedMultiples_Prob52.exe
+D:\Temp\ProjectEuler\PermutedMultiples_Prob52\bin\Debug\PermutedMultiples_Prob52.pdb
+D:\Temp\ProjectEuler\PermutedMultiples_Prob52\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\PermutedMultiples_Prob52\obj\x86\Debug\PermutedMultiples_Prob52.exe
+D:\Temp\ProjectEuler\PermutedMultiples_Prob52\obj\x86\Debug\PermutedMultiples_Prob52.pdb

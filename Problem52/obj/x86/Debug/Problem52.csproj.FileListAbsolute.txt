@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\Problem52\bin\Debug\Problem52.exe
+D:\Temp\ProjectEuler\Problem52\bin\Debug\Problem52.pdb
+D:\Temp\ProjectEuler\Problem52\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\Problem52\obj\x86\Debug\Problem52.exe
+D:\Temp\ProjectEuler\Problem52\obj\x86\Debug\Problem52.pdb

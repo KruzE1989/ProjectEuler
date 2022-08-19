@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\CountSundays_Prob19\bin\Debug\CountSundays_Prob19.exe
+D:\Temp\ProjectEuler\CountSundays_Prob19\bin\Debug\CountSundays_Prob19.pdb
+D:\Temp\ProjectEuler\CountSundays_Prob19\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\CountSundays_Prob19\obj\x86\Debug\CountSundays_Prob19.exe
+D:\Temp\ProjectEuler\CountSundays_Prob19\obj\x86\Debug\CountSundays_Prob19.pdb

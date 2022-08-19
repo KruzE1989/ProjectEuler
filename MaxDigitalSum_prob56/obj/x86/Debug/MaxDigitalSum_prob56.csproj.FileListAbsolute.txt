@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\MaxDigitalSum_prob56\bin\Debug\MaxDigitalSum_prob56.exe
+D:\Temp\ProjectEuler\MaxDigitalSum_prob56\bin\Debug\MaxDigitalSum_prob56.pdb
+D:\Temp\ProjectEuler\MaxDigitalSum_prob56\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\MaxDigitalSum_prob56\obj\x86\Debug\MaxDigitalSum_prob56.exe
+D:\Temp\ProjectEuler\MaxDigitalSum_prob56\obj\x86\Debug\MaxDigitalSum_prob56.pdb

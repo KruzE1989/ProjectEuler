@@ -1,0 +1,7 @@
+D:\Temp\ProjectEuler\LargestPrimeFactor\bin\Debug\LargestPrimeFactor.exe
+D:\Temp\ProjectEuler\LargestPrimeFactor\bin\Debug\LargestPrimeFactor.pdb
+D:\Temp\ProjectEuler\LargestPrimeFactor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\LargestPrimeFactor\obj\x86\Debug\LargestPrimeFactor.exe
+D:\Temp\ProjectEuler\LargestPrimeFactor\obj\x86\Debug\LargestPrimeFactor.pdb
+D:\visual studio 2010\Projects\ProjectEuler\LargestPrimeFactor\obj\x86\Debug\LargestPrimeFactor.exe
+D:\visual studio 2010\Projects\ProjectEuler\LargestPrimeFactor\obj\x86\Debug\LargestPrimeFactor.pdb

@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\Combination_prob53\bin\Debug\Combination_prob53.exe
+D:\Temp\ProjectEuler\Combination_prob53\bin\Debug\Combination_prob53.pdb
+D:\Temp\ProjectEuler\Combination_prob53\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\Combination_prob53\obj\x86\Debug\Combination_prob53.exe
+D:\Temp\ProjectEuler\Combination_prob53\obj\x86\Debug\Combination_prob53.pdb

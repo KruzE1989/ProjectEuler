@@ -1,0 +1,10 @@
+D:\visual studio 2010\Projects\ProjectEuler\DivBy1To20\bin\Debug\DivBy1To20.exe
+D:\visual studio 2010\Projects\ProjectEuler\DivBy1To20\bin\Debug\DivBy1To20.pdb
+D:\visual studio 2010\Projects\ProjectEuler\DivBy1To20\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\visual studio 2010\Projects\ProjectEuler\DivBy1To20\obj\x86\Debug\DivBy1To20.exe
+D:\visual studio 2010\Projects\ProjectEuler\DivBy1To20\obj\x86\Debug\DivBy1To20.pdb
+D:\Temp\ProjectEuler\DivBy1To20\obj\x86\Debug\DivBy1To20.exe
+D:\Temp\ProjectEuler\DivBy1To20\obj\x86\Debug\DivBy1To20.pdb
+D:\Temp\ProjectEuler\DivBy1To20\bin\Debug\DivBy1To20.exe
+D:\Temp\ProjectEuler\DivBy1To20\bin\Debug\DivBy1To20.pdb
+D:\Temp\ProjectEuler\DivBy1To20\obj\x86\Debug\ResolveAssemblyReference.cache

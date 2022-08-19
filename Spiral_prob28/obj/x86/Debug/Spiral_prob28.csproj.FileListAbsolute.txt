@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\Spiral_prob28\bin\Debug\Spiral_prob28.exe
+D:\Temp\ProjectEuler\Spiral_prob28\bin\Debug\Spiral_prob28.pdb
+D:\Temp\ProjectEuler\Spiral_prob28\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\Spiral_prob28\obj\x86\Debug\Spiral_prob28.exe
+D:\Temp\ProjectEuler\Spiral_prob28\obj\x86\Debug\Spiral_prob28.pdb

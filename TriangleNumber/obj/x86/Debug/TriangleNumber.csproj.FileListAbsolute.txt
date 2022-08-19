@@ -1,0 +1,10 @@
+D:\Temp\ProjectEuler\TriangleNumber\bin\Debug\TriangleNumber.exe
+D:\Temp\ProjectEuler\TriangleNumber\bin\Debug\TriangleNumber.pdb
+D:\Temp\ProjectEuler\TriangleNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\TriangleNumber\obj\x86\Debug\TriangleNumber.exe
+D:\Temp\ProjectEuler\TriangleNumber\obj\x86\Debug\TriangleNumber.pdb
+E:\TimePass Projects\ProjectEuler\TriangleNumber\obj\x86\Debug\TriangleNumber.exe
+E:\TimePass Projects\ProjectEuler\TriangleNumber\obj\x86\Debug\TriangleNumber.pdb
+E:\TimePass Projects\ProjectEuler\TriangleNumber\bin\Debug\TriangleNumber.exe
+E:\TimePass Projects\ProjectEuler\TriangleNumber\bin\Debug\TriangleNumber.pdb
+E:\TimePass Projects\ProjectEuler\TriangleNumber\obj\x86\Debug\ResolveAssemblyReference.cache

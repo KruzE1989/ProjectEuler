@@ -1,0 +1,10 @@
+D:\Temp\ProjectEuler\SumOfDigits(2Pow1000)\bin\Debug\SumOfDigits(2Pow1000).exe
+D:\Temp\ProjectEuler\SumOfDigits(2Pow1000)\bin\Debug\SumOfDigits(2Pow1000).pdb
+D:\Temp\ProjectEuler\SumOfDigits(2Pow1000)\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\SumOfDigits(2Pow1000)\obj\x86\Debug\SumOfDigits(2Pow1000).exe
+D:\Temp\ProjectEuler\SumOfDigits(2Pow1000)\obj\x86\Debug\SumOfDigits(2Pow1000).pdb
+E:\TimePass Projects\ProjectEuler\SumOfDigits(2Pow1000)\bin\Debug\SumOfDigits(2Pow1000).exe
+E:\TimePass Projects\ProjectEuler\SumOfDigits(2Pow1000)\bin\Debug\SumOfDigits(2Pow1000).pdb
+E:\TimePass Projects\ProjectEuler\SumOfDigits(2Pow1000)\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TimePass Projects\ProjectEuler\SumOfDigits(2Pow1000)\obj\x86\Debug\SumOfDigits(2Pow1000).exe
+E:\TimePass Projects\ProjectEuler\SumOfDigits(2Pow1000)\obj\x86\Debug\SumOfDigits(2Pow1000).pdb

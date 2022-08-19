@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\Palindrome_prob36\bin\Debug\Palindrome_prob36.exe
+D:\Temp\ProjectEuler\Palindrome_prob36\bin\Debug\Palindrome_prob36.pdb
+D:\Temp\ProjectEuler\Palindrome_prob36\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\Palindrome_prob36\obj\x86\Debug\Palindrome_prob36.exe
+D:\Temp\ProjectEuler\Palindrome_prob36\obj\x86\Debug\Palindrome_prob36.pdb

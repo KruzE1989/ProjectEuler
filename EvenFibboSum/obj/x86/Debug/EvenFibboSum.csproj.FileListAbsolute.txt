@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\EvenFibboSum\bin\Debug\EvenFibboSum.exe
+D:\Temp\ProjectEuler\EvenFibboSum\bin\Debug\EvenFibboSum.pdb
+D:\Temp\ProjectEuler\EvenFibboSum\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\EvenFibboSum\obj\x86\Debug\EvenFibboSum.exe
+D:\Temp\ProjectEuler\EvenFibboSum\obj\x86\Debug\EvenFibboSum.pdb

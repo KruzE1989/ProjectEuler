@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\Champernowne_Constant_prob40\bin\Debug\Champernowne_Constant_prob40.exe
+D:\Temp\ProjectEuler\Champernowne_Constant_prob40\bin\Debug\Champernowne_Constant_prob40.pdb
+D:\Temp\ProjectEuler\Champernowne_Constant_prob40\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\Champernowne_Constant_prob40\obj\x86\Debug\Champernowne_Constant_prob40.exe
+D:\Temp\ProjectEuler\Champernowne_Constant_prob40\obj\x86\Debug\Champernowne_Constant_prob40.pdb

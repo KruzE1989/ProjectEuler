@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\CirclePrimes_Prob35\bin\Debug\CirclePrimes_Prob35.exe
+D:\Temp\ProjectEuler\CirclePrimes_Prob35\bin\Debug\CirclePrimes_Prob35.pdb
+D:\Temp\ProjectEuler\CirclePrimes_Prob35\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\CirclePrimes_Prob35\obj\x86\Debug\CirclePrimes_Prob35.exe
+D:\Temp\ProjectEuler\CirclePrimes_Prob35\obj\x86\Debug\CirclePrimes_Prob35.pdb

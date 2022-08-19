@@ -1,0 +1,7 @@
+E:\TimePass Projects\ProjectEuler\NameScore_prob22\bin\Debug\NameScore_prob22.exe
+E:\TimePass Projects\ProjectEuler\NameScore_prob22\bin\Debug\NameScore_prob22.pdb
+E:\TimePass Projects\ProjectEuler\NameScore_prob22\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TimePass Projects\ProjectEuler\NameScore_prob22\obj\x86\Debug\NameScore_prob22.exe
+E:\TimePass Projects\ProjectEuler\NameScore_prob22\obj\x86\Debug\NameScore_prob22.pdb
+D:\Temp\ProjectEuler\NameScore_prob22\obj\x86\Debug\NameScore_prob22.exe
+D:\Temp\ProjectEuler\NameScore_prob22\obj\x86\Debug\NameScore_prob22.pdb

@@ -1,0 +1,5 @@
+E:\TimePass Projects\ProjectEuler\LongSeqBelow1Million\bin\Debug\LongSeqBelow1Million.exe
+E:\TimePass Projects\ProjectEuler\LongSeqBelow1Million\bin\Debug\LongSeqBelow1Million.pdb
+E:\TimePass Projects\ProjectEuler\LongSeqBelow1Million\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TimePass Projects\ProjectEuler\LongSeqBelow1Million\obj\x86\Debug\LongSeqBelow1Million.exe
+E:\TimePass Projects\ProjectEuler\LongSeqBelow1Million\obj\x86\Debug\LongSeqBelow1Million.pdb

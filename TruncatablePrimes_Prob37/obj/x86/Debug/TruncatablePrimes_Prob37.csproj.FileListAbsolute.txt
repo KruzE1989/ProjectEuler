@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\TruncatablePrimes_Prob37\bin\Debug\TruncatablePrimes_Prob37.exe
+D:\Temp\ProjectEuler\TruncatablePrimes_Prob37\bin\Debug\TruncatablePrimes_Prob37.pdb
+D:\Temp\ProjectEuler\TruncatablePrimes_Prob37\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\TruncatablePrimes_Prob37\obj\x86\Debug\TruncatablePrimes_Prob37.exe
+D:\Temp\ProjectEuler\TruncatablePrimes_Prob37\obj\x86\Debug\TruncatablePrimes_Prob37.pdb

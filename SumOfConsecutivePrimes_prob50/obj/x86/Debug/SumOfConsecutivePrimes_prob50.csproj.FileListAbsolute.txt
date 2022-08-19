@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\SumOfConsecutivePrimes_prob50\bin\Debug\SumOfConsecutivePrimes_prob50.exe
+D:\Temp\ProjectEuler\SumOfConsecutivePrimes_prob50\bin\Debug\SumOfConsecutivePrimes_prob50.pdb
+D:\Temp\ProjectEuler\SumOfConsecutivePrimes_prob50\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\SumOfConsecutivePrimes_prob50\obj\x86\Debug\SumOfConsecutivePrimes_prob50.exe
+D:\Temp\ProjectEuler\SumOfConsecutivePrimes_prob50\obj\x86\Debug\SumOfConsecutivePrimes_prob50.pdb

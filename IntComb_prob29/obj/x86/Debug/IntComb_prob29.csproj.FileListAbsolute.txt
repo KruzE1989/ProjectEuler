@@ -1,0 +1,10 @@
+E:\TimePass Projects\ProjectEuler\IntComb_prob29\bin\Debug\IntComb_prob29.exe
+E:\TimePass Projects\ProjectEuler\IntComb_prob29\bin\Debug\IntComb_prob29.pdb
+E:\TimePass Projects\ProjectEuler\IntComb_prob29\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\TimePass Projects\ProjectEuler\IntComb_prob29\obj\x86\Debug\IntComb_prob29.exe
+E:\TimePass Projects\ProjectEuler\IntComb_prob29\obj\x86\Debug\IntComb_prob29.pdb
+D:\Temp\ProjectEuler\IntComb_prob29\obj\x86\Debug\IntComb_prob29.exe
+D:\Temp\ProjectEuler\IntComb_prob29\obj\x86\Debug\IntComb_prob29.pdb
+D:\Temp\ProjectEuler\IntComb_prob29\bin\Debug\IntComb_prob29.exe
+D:\Temp\ProjectEuler\IntComb_prob29\bin\Debug\IntComb_prob29.pdb
+D:\Temp\ProjectEuler\IntComb_prob29\obj\x86\Debug\ResolveAssemblyReference.cache

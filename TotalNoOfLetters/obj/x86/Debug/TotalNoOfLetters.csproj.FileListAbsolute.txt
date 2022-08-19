@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\TotalNoOfLetters\bin\Debug\TotalNoOfLetters.exe
+D:\Temp\ProjectEuler\TotalNoOfLetters\bin\Debug\TotalNoOfLetters.pdb
+D:\Temp\ProjectEuler\TotalNoOfLetters\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\TotalNoOfLetters\obj\x86\Debug\TotalNoOfLetters.exe
+D:\Temp\ProjectEuler\TotalNoOfLetters\obj\x86\Debug\TotalNoOfLetters.pdb

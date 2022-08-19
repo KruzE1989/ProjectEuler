@@ -1,0 +1,5 @@
+D:\Temp\ProjectEuler\LychrelNumber_prob55\bin\Debug\LychrelNumber_prob55.exe
+D:\Temp\ProjectEuler\LychrelNumber_prob55\bin\Debug\LychrelNumber_prob55.pdb
+D:\Temp\ProjectEuler\LychrelNumber_prob55\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Temp\ProjectEuler\LychrelNumber_prob55\obj\x86\Debug\LychrelNumber_prob55.exe
+D:\Temp\ProjectEuler\LychrelNumber_prob55\obj\x86\Debug\LychrelNumber_prob55.pdb
